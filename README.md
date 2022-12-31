@@ -1,6 +1,6 @@
 # Verilog_helper 
 
-A set of tools/examples related to Digital Circuitry Design
+A set of tools/examples related to Digital Circuitry Design, will update continuously
 
 ------
 
