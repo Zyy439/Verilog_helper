@@ -6,9 +6,9 @@ A set of tools/examples related to Digital Circuitry Design
 
 ### example_modules
 
--- zero_polishing 
+-- zero_polishing   
 	a module to expand data into a wanted bit width  
--- watch_dog_lite
+-- watch_dog_lite  
 	a small watch dog module
 
 ### period_cal 
