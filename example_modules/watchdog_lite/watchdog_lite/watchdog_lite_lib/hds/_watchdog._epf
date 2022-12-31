@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom watchdog
+DEFAULT_FILE atom watchdog.v

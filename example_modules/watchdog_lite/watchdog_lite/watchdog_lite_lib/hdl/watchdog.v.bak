@@ -1,0 +1,18 @@
+//
+// Verilog Module watchdog_lite_lib.watchdog
+//
+// Created:
+//          by - Administrator.UNKNOWN (WIN-P4J5GE79P21)
+//          at - 17:58:16 2022/11/12
+//
+// using Mentor Graphics HDL Designer(TM) 2021.1 Built on 14 Jan 2021 at 15:11:42
+//
+
+`resetall
+`timescale 1ns/10ps
+module watchdog ;
+
+
+// ### Please start your Verilog code here ### 
+
+endmodule

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom watchdog_lite_top
+DEFAULT_FILE atom watchdog_lite_top/struct.bd

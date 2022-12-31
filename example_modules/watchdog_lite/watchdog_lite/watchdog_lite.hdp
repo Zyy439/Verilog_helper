@@ -1,0 +1,11 @@
+[hdl]
+watchdog_lite_lib = $HDS_PROJECT_DIR/watchdog_lite_lib/hdl
+[hds]
+watchdog_lite_lib = $HDS_PROJECT_DIR/watchdog_lite_lib/hds
+[hds_settings]
+default_library = watchdog_lite_lib
+version = 3
+[library_type]
+watchdog_lite_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
