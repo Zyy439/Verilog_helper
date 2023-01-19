@@ -18,3 +18,11 @@ A set of tools/examples related to Digital Circuitry Design, will update continu
 
 
 <img width="308" alt="3cdb435ceae2f63e062905d9926d5b4" src="https://user-images.githubusercontent.com/121721312/210162491-7dfd2d1a-37ce-4293-aa31-599e89e17647.png">
+
+
+
+### Register_manager
+
+​	a little Register manager
+
+<img width="370" alt="9c80a275a95c54a6589204fe1b6ea0c" src="https://user-images.githubusercontent.com/121721312/213378760-11c75708-6665-43a3-86e4-903b7e0e6743.png">
